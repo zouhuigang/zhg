@@ -1,0 +1,13 @@
+{
+    "name": "hou/composer-car",
+    "description": "In order to study composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zouhuigang",
+            "email": "952750120@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
